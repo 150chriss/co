@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+   
+
+body{
+background-image: url("images/458965367_409545788445906_8439802553489613593_n.jpg");
+ /* background-image: url("images/hirwa.jpg");*/
+background-repeat:no-repeat;
+background-position: center;
+background-attachment: fixed;
+background-size: cover;
+}
+
+/*nav ul li{
+    display: inline;
+    
+}
+    nav ul li a{
+        color: white;
+        font-size: 40px;
+        text-decoration: none;
+        padding: 70px;
+        text-transform: capitalize;
+    }
+    nav ul li a:hover{
+       color: gold;
+        cursor: pointer;
+     
+    }
+    nav ul li a:focus{
+        list-style-type: none;
+transition: 0.4s ease-in-out;
+    }*/
+    .container{
+        max-width: 500px;
+        margin: 600px;
+       background-image: url("images/458965367_409545788445906_8439802553489613593_n.jpg");
+      /* background-image: url("images/hirwa.jpg");*/
+        padding: 30px;
+        border-image-source: url("images/smile.PNG");
+        border-radius: 40px;
+        background-size: cover;
+        opacity: 1;
+    background-position: center;
+        margin-top: 200px;
+       padding: 30px;
+       text-align: center;
+       position: fixed;
+    
+    }
+       
+    .container h2{
+        text-align: center;
+       
+
+    }
+    .form-group{
+        margin-bottom: 20px;
+
+    }
+    label{
+        display: block;
+        font-size: 30px;
+        font-weight: bold;
+        color: white;
+        float: left;
+    }
+    .input{
+        width: 100%;
+        padding:20px;
+        border-image-source: url("images/458761293_861587612605351_4030203495514165893_n.jpg");
+        box-sizing: border-box;
+        outline: none;
+        font-size: 30px;
+    }
+    
+    .btn{
+        width: 100%;
+        padding: 30px;
+       background-color: rgb(10, 245, 84);
+        color: white;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer; 
+        font-size: 50px;
+     background: forestgreen;
+        border-radius: 10px;
+     
+    }
+    .btn:hover{
+        background-color: blue;
+        
+    }
+    .img{
+      height: 40px;
+      width: 40px;
+        margin-top: 10px;
+    }
+    
+
+
