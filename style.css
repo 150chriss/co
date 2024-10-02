@@ -5,7 +5,7 @@
    
 
 body{
-background-image: url("images/458965367_409545788445906_8439802553489613593_n.jpg");
+background-image: url("458965367_409545788445906_8439802553489613593_n.jpg");
  /* background-image: url("images/hirwa.jpg");*/
 background-repeat:no-repeat;
 background-position: center;
@@ -36,10 +36,10 @@ transition: 0.4s ease-in-out;
     .container{
         max-width: 500px;
         margin: 600px;
-       background-image: url("images/458965367_409545788445906_8439802553489613593_n.jpg");
+       background-image: url("458965367_409545788445906_8439802553489613593_n.jpg");
       /* background-image: url("images/hirwa.jpg");*/
         padding: 30px;
-        border-image-source: url("images/smile.PNG");
+        border-image-source: url("smile.PNG");
         border-radius: 40px;
         background-size: cover;
         opacity: 1;
@@ -70,7 +70,7 @@ transition: 0.4s ease-in-out;
     .input{
         width: 100%;
         padding:20px;
-        border-image-source: url("images/458761293_861587612605351_4030203495514165893_n.jpg");
+        border-image-source: url("458761293_861587612605351_4030203495514165893_n.jpg");
         box-sizing: border-box;
         outline: none;
         font-size: 30px;
